@@ -25,6 +25,14 @@ Google BootCamp에서 Host로 매주 금요일 밤에 진행한 논문 읽기 �
    
    link: https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf
 
+2. Auto-Encoding Variational Bayes
+
+   Variational Auto-Encoder에 대한 논문입니다.
+   Variational Inference를 통해 원하는 분포에 근사 시키고 Deep Neural Network를 Maximum Likelihood 관점으로 해석한 점이 재미있는 논문이였습니다.
+   수학적으로 완성도 있고 심도 깊은 논문이였고, 여러 응용이 들어갈 수 있는 모델이라 흥미로웠습니다.
+
+   link: https://arxiv.org/pdf/1312.6114.pdf
+
 ### CNN
 ---------
 1. InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions
