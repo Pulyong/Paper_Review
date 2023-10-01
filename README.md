@@ -25,13 +25,29 @@ Google BootCamp에서 Host로 매주 금요일 밤에 진행한 논문 읽기 �
    
    link: https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf
 
-2. Auto-Encoding Variational Bayes
+   Real MNIST
+   
+   <img width="60%" src="https://github.com/Pulyong/Paper_Review/assets/76218918/c82347b4-01fb-492b-89a1-0f2854694eda"/>
+
+   RBM Reconstruction MNIST
+
+   <img width="60%" src="https://github.com/Pulyong/Paper_Review/assets/76218918/5b291db7-5d47-4f9d-9ea2-313a7e0edabe"/>
+
+3. Auto-Encoding Variational Bayes
 
    Variational Auto-Encoder에 대한 논문입니다.
    Variational Inference를 통해 원하는 분포에 근사 시키고 Deep Neural Network를 Maximum Likelihood 관점으로 해석한 점이 재미있는 논문이였습니다.
    수학적으로 완성도 있고 심도 깊은 논문이였고, 여러 응용이 들어갈 수 있는 모델이라 흥미로웠습니다.
 
    link: https://arxiv.org/pdf/1312.6114.pdf
+
+   Real MNIST
+   
+   <img width="60%" src="https://github.com/Pulyong/Paper_Review/assets/76218918/0ead4f44-a086-4ab6-9e31-17028af58a2c"/>
+
+   VAE Reconstruction MNIST
+
+   <img width="60%" src="https://github.com/Pulyong/Paper_Review/assets/76218918/d6660735-bc7a-4f8c-9334-8aec6d8b6d4b"/>
 
 ### CNN
 ---------
