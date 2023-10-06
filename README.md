@@ -49,6 +49,19 @@ Google BootCamp에서 Host로 매주 금요일 밤에 진행한 논문 읽기 �
 
    <img width="60%" src="https://github.com/Pulyong/Paper_Review/assets/76218918/d6660735-bc7a-4f8c-9334-8aec6d8b6d4b"/>
 
+4. Generative Adversarial Nets
+
+    GAN에 대한 논문입니다.
+    Generative Model을 공부하고 싶었던 이유가 바로 GAN 때문이였습니다.
+    처음 GAN을 접하고 두 모델이 경쟁하면서 학습이 가능하다는 사실이 흥미로웠습니다. 또한 해당 모델의 타당성을 수학적으로 증명한 것 또한 굉장히 배울점이 많았습니다.
+    GAN은 수많은 variation을 만든 만큼 Diffusion model이 등장했지만 충분히 매력적이고 효과적인 모델이라고 생각합니다.
+
+    link: https://browse.arxiv.org/pdf/1406.2661.pdf
+
+    Generate MNIST
+  
+    <img width="60%" src="https://github.com/Pulyong/Paper_Review/assets/76218918/1bd86333-d6e1-41fb-95bd-f804137d15c1"/>
+
 ### CNN
 ---------
 1. InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions
