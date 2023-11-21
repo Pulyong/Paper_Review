@@ -62,6 +62,16 @@ Google BootCamp에서 Host로 매주 금요일 밤에 진행한 논문 읽기 �
   
     <img width="60%" src="https://github.com/Pulyong/Paper_Review/assets/76218918/1bd86333-d6e1-41fb-95bd-f804137d15c1"/>
 
+5. Denoising Diffusion Probabilistic Models
+
+   Diffusion Model에 대한 논문입니다.
+   최근에 Image Generation 분야에서 빠르게 발전되고 있는 모델입니다.
+   단순 Image-to-Image Generation 뿐만 아니라 Text-to-Image, Speech|Audio Generation 등등 굉장히 많은 도메인에서 사용되고 있습니다.
+
+   link: https://arxiv.org/pdf/2006.11239.pdf
+
+   Implementation은 <a href='https://github.com/Pulyong/All_About_Diffusion' target='_blank'>All_About_Diffusion</a> repo에 올릴 예정입니다.
+
 ### CNN
 ---------
 1. InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions
