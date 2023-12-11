@@ -61,8 +61,17 @@ Google BootCamp에서 Host로 매주 금요일 밤에 진행한 논문 읽기 �
     Generate MNIST
   
     <img width="60%" src="https://github.com/Pulyong/Paper_Review/assets/76218918/1bd86333-d6e1-41fb-95bd-f804137d15c1"/>
+    
+5. CycleGAN
 
-5. Denoising Diffusion Probabilistic Models
+    GAN을 이용한 Style Transfer 논문입니다.
+    Pix2Pix 논문에서는 Input Image와 style이 바뀐 Target Image pair가 필요했습니다. 하지만 현실적으로 Pair Image는 구하기 힘들기 때문에 CycleGAN은 Unpair Image를 Input과 Target으로 주게됩니다.
+    Input과 Target Image가 서로의 도메인으로 변환 되었다가 다시 본인의 도메인으로 Reconstruct하는 방식을 통해 최대한 Image 형태의 변환 없이 Style만 상대의 도메인으로 transfer 시키는 아이디어가 흥미로웠습니다.
+    
+    link: https://arxiv.org/pdf/1703.10593.pdf
+  
+  
+7. Denoising Diffusion Probabilistic Models
 
    Diffusion Model에 대한 논문입니다.
    최근에 Image Generation 분야에서 빠르게 발전되고 있는 모델입니다.
